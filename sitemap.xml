@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://hicode360.github.io/categories/index.html</loc>
+    <loc>https://hicode360.github.io/about/index.html</loc>
     
     <lastmod>2021-10-08</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://hicode360.github.io/about/index.html</loc>
+    <loc>https://hicode360.github.io/categories/index.html</loc>
     
     <lastmod>2021-10-08</lastmod>
     
@@ -79,20 +79,6 @@
   </url>
   
   <url>
-    <loc>https://hicode360.github.io/tags/python/</loc>
-    <lastmod>2021-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hicode360.github.io/tags/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</loc>
-    <lastmod>2021-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hicode360.github.io/tags/linux/</loc>
     <lastmod>2021-11-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -113,6 +99,20 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://hicode360.github.io/tags/python/</loc>
+    <lastmod>2021-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hicode360.github.io/tags/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</loc>
+    <lastmod>2021-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -123,14 +123,14 @@
   </url>
   
   <url>
-    <loc>https://hicode360.github.io/categories/python/</loc>
+    <loc>https://hicode360.github.io/categories/linux/</loc>
     <lastmod>2021-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hicode360.github.io/categories/linux/</loc>
+    <loc>https://hicode360.github.io/categories/python/</loc>
     <lastmod>2021-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
